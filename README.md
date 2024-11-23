@@ -1,2 +1,2 @@
-# symmetrical-telegram
-Machine learning and data analysis
+# **Machine learning and data analysis**
+________________________________________
